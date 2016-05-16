@@ -1,0 +1,4 @@
+boton.onclick = function(e){ 
+e.preventDefault();
+ var funcUser = document.getElementById("pablo").value;
+console.log(funcUser);}
